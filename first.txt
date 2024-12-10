@@ -1,0 +1,9 @@
+There is a server and a browser both in a device which has a solid internet connection 
+whever you visit a website -------------------server (listen)
+when you visit the homepage of google ----------you go (/:home route)  (/login:login setup)
+Now when request is generated ---------------------there are types of requests---(Get,Update,Delete  etc.)
+Browser is sending request of Get which is responsed with the help of Express---We will be handling the requests.
+
+
+
+Step1:npm init (package.json )

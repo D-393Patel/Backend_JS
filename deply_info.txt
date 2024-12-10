@@ -1,0 +1,3 @@
+Azure,DigitalOcean,Railway,Seenode,Render------------------Hosting Environment-----
+
+in digital Ocean

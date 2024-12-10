@@ -1,0 +1,46 @@
+Backend development: 2 major components
+1.A programming language                                  A 2.2.database
+Java,JS,PHP,golang,C++(On a framework)                  Mongo,MySQL,Postgres,Sqlite(ORM,ODM)
+
+
+
+
+
+API---response from server to browser or caller or requester..
+
+
+
+
+JavaScript based Backend involves :
+data:
+File:
+Third Party(API):
+
+
+
+
+File Structure:---
+Package.json 
+.env
+(Readme,git,lint,prettier etc)
+
+
+
+You will always have 
+index file(DB folder se database connects kar lete hai),
+APP file(),
+Constants(very important file
+like---enums,DB-name) file
+
+Industry level :
+directories: DB,
+Models(data sample ka model bna lo),
+Controllers(Functionality),
+Routes(slash login ke baad kha jaaye banda),
+MiddleWares(),
+Utils(utility like mail karna----(forgot password,mail bhejo     reset password,mail bhejo))
+,More(depends)......
+
+
+
+
